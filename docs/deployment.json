@@ -1,0 +1,31 @@
+{
+  "env_set_revision": 0,
+  "failure_message": null,
+  "id": "appgdep_6aa2c60296c48191834a38806fa83f9c",
+  "project_id": "appgprj_6aa2898aa6a4819185443df03e071196",
+  "provider_deployment_id": null,
+  "screenshot_asset_pointer": null,
+  "status": "pending",
+  "title": "Affan \u2014 A Life in Chapters",
+  "type": "publish",
+  "updated_at": "2026-09-10T15:00:18.724443+00:00",
+  "url": null,
+  "version_id": "appgprj_6aa2898aa6a4819185443df03e071196~appgver_05c11843be0c8191a32eca8276dacaf9",
+  "version_number": 1,
+  "source_commit": "d03331c268ef68b396716c6972271faa88d86b9b",
+  "attempt_count": 3,
+  "github_status": "write restored: initial README commit 14629ac429fbbbcc86402b36c107813df5faeef0; full source import in progress",
+  "previous_attempts": [
+    {
+      "id": "appgdep_6aa2bc7669b0819198f12774c228922e",
+      "status": "failed",
+      "failure_message": "Timed out waiting for the TLS certificate for affan-mystory.ahmadaffan284.chatgpt.site"
+    },
+    {
+      "id": "appgdep_6aa2bf9f08dc8191b6993745c6f0065c",
+      "status": "failed",
+      "failure_message": "Timed out waiting for the TLS certificate for affan-mystory.ahmadaffan284.chatgpt.site",
+      "updated_at": "2026-09-10T14:45:06.770803+00:00"
+    }
+  ]
+}

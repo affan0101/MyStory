@@ -4,7 +4,7 @@ A cinematic, bilingual journey from a white house in Bihar to Java software engi
 
 ## Current release status
 
-The production build, type checks, lint and seven playback tests pass. Source and release version 1 are saved. Private publishing is blocked by a platform HTTPS certificate timeout (two attempts); no live URL is verified. The GitHub connector also returned a 403 write-access error. See `docs/PROGRESS.md` and `docs/deployment.json` for exact recovery details.
+The production build, type checks, lint and seven playback tests pass. Source and release version 1 are saved. GitHub write access is restored and the complete source is being synchronized. Private publishing is being retried after two platform HTTPS certificate timeouts; no live URL is verified yet. See `docs/PROGRESS.md` and `docs/deployment.json` for exact recovery details.
 
 ## Experience
 
