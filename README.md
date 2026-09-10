@@ -4,7 +4,7 @@ A cinematic, bilingual journey from a white house in Bihar to Java software engi
 
 ## Current release status
 
-The production build, type checks, lint and seven playback tests pass. Source and release version 1 are saved. GitHub write access is restored and the complete source is being synchronized. Private publishing is being retried after two platform HTTPS certificate timeouts; no live URL is verified yet. See `docs/PROGRESS.md` and `docs/deployment.json` for exact recovery details.
+The website is published privately at https://affan-mystory.ahmadaffan284.chatgpt.site. Sign in with the owner's account to view it. The complete source is synchronized to `affan0101/MyStory`; all 129 source and asset files were verified against the saved project by matching their Git tree. The production build, type checks, lint and seven playback tests pass. See `docs/PROGRESS.md` and `docs/deployment.json` for release details and remaining device QA.
 
 ## Experience
 
